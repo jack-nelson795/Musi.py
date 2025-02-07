@@ -15,7 +15,7 @@ import time
 import random
 
 # YouTube Data API key
-API_KEY = 'AIzaSyBolEReTPN08fJaQBbrXkWqSPVre7QBH8M'
+API_KEY = 'get your own api key'
 
 def fetch_playlist():
     # Set up Chrome options for headless browsing
