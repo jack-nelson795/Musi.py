@@ -12,5 +12,5 @@ Log any songs that couldn't be found.
 **Python 3.9+**: Ensure you have Python installed on your system.
 ## Installation
 Clone this repository:
-git clone https://github.com/yourusername/musi-to-spotify.git
-cd musi-to-spotify
+git clone https://github.com/yourusername/musi.py.git
+cd musi.py
